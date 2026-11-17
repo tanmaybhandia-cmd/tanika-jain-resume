@@ -1,6 +1,20 @@
 # Tanika Jain | Personal resume
 
-A responsive personal resume website created from scratch for the Web Development CSS module. Built with semantic HTML and an external CSS stylesheet, with no JavaScript or external libraries.
+An existing personal resume website, originally created during the HTML module and subsequently enhanced using CSS for the web development CSS module. Built with semantic HTML and an external CSS stylesheet, with no JavaScript or external libraries.
+
+## Desktop screenshots
+
+Home page and introduction.
+
+![Desktop home page and introduction](assets/screenshots/1-desktop-home.png)
+
+Experience and selected projects.
+
+![Desktop experience and selected projects](assets/screenshots/2-desktop-experience-projects.png)
+
+Education, leadership, skills and contact.
+
+![Desktop education, leadership, skills and contact](assets/screenshots/3-desktop-education-contact.png)
 
 ## Files
 - `index.html`: resume sections, accessible navigation and contact link.
